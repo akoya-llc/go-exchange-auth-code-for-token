@@ -1,0 +1,14 @@
+<html>
+	<h1>
+		{{ .title }}
+	</h1>
+	<body>
+	<p>
+	You obtained the token! Copy the value of the field id_token from below and store it somewhere so you can use it in the next step to make an API request.
+	</p>
+	      <textarea id="token-area" name="token-area" rows="30" cols="75">
+        {{.token}}
+        </textarea>
+	</body>
+
+</html>

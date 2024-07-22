@@ -1,0 +1,12 @@
+<html>
+	<h1>
+		{{ .title }}
+	</h1>
+	<body>
+	Paste the auth code you obtained from 'step-1-getting-an-authcode' and click the button below to get an access token.
+	</body>
+	<form action="/api/authcode" method="POST">
+    <input type="text" id="authcode" name="authcode" placeholder="your auth code goes here" size="115"><br>
+    <input type="submit" value="Get an access token">
+	</form>
+</html>
