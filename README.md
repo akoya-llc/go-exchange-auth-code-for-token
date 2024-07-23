@@ -30,7 +30,7 @@ The go.mod file includes the application's golang dependencies, and the run.sh f
 3. Choose "sign in" with github
 4. Authenticate using your github credentials and grant codesandbox access to your repos
 5. After signing in, click the dropdown next to the "sign in" button in codesandbox and choose "Fork project"
-6. When prompted, search for this repository to fork from: https://github.com/fabrizio-akoya/go-fetch-auth-code
+6. When prompted, search for this repository to fork from: https://github.com/fabrizio-akoya/go-exchange-auth-code-for-token
 7. Click the "fork" button to fork the project
 8. The application will start to run in codesandbox, after which you'll be prompted to open preview via a "Preview: 8123" button
 9. Click the "Preview: 8123" button to open the application in the browser
