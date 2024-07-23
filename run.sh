@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Step 1: Download all dependencies
+# Step 1: cleanup and download all dependencies
+rm -Rf ./main
 go mod tidy
 go mod vendor
 
