@@ -3,7 +3,7 @@
   "setupTasks": [
     {
       "command": "chmod +x run.sh",
-      "name": "c"
+      "name": "chmod +x run.sh"
     },
     {
       "command": "./run.sh",
