@@ -30,7 +30,7 @@ The go.mod file contains the application's Golang dependencies, while the run.sh
 3. Choose "Sign In with GitHub."
 4. Authenticate using your GitHub credentials and grant CodeSandbox access to your repositories.
 5. After signing in, click the dropdown next to the "Sign In" button in CodeSandbox and choose "Fork Project."
-6. When prompted, search for this repository to fork: https://github.com/fabrizio-akoya/go-exchange-auth-code-for-token.
+6. When prompted, search for this repository to fork: https://github.com/akoya-llc/go-exchange-auth-code-for-token.
 7. Click the "Fork" button to fork the project.
 8. The application will start running in CodeSandbox, after which you'll be prompted to open the preview via the "Preview: 8123" button.
 9. Click the "Preview: 8123" button to open the application in the browser.
