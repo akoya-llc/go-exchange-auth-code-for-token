@@ -4,10 +4,6 @@
     {
       "command": "chmod +x run.sh",
       "name": "chmod +x run.sh"
-    },
-    {
-      "command": "./run.sh",
-      "name": "./run.sh"
     }
   ],
 
